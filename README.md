@@ -1,6 +1,6 @@
-# WHMCS7 Shadowsocksr Shadowsocks SSRPANEL SSPANEL  出售
+# WHMCS7 Shadowsocksr Shadowsocks SSRPANEL SSPANEL  
 
-WHMCS SSR出售 全站 带免签微信插件
+WHMCS SSR  全站 带免签微信插件
 
 
 加了一个订阅复制粘贴的功能
